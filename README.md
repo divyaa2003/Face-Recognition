@@ -1,7 +1,3 @@
-# Face-Detection-and-Recognition:
-Here’s a simple and informative **README.md** file for your **Face Recognition** project:
-
----
 
 ## **Face Recognition using OpenCV and KNN**
 
