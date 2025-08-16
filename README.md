@@ -34,7 +34,7 @@ This project implements a face recognition system using **OpenCV** and **K-Neare
 
    ```bash
    git clone https://github.com/divyaa2003/Face-Recognition.git
-   cd Face-Recognition
+   cd Face_Detection_Recognition
    ```
 
 2. **Create a virtual environment:**
@@ -50,10 +50,6 @@ This project implements a face recognition system using **OpenCV** and **K-Neare
    pip install -r requirements.txt
    ```
 
-4. **Download Haar Cascade file:**
-   Make sure you have the `haarcascade_frontalface_alt.xml` file in the project directory.
-   You can download it from:
-   [OpenCV GitHub Repository](https://github.com/opencv/opencv/tree/master/data/haarcascades)
 
 ---
 
